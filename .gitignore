@@ -1,6 +1,6 @@
 /PayoffCharts.v2.ncrunchproject
 *.v2.ncrunchsolution
-
+paket-files
 tools/FAKE
 tools/Nunit
 build
